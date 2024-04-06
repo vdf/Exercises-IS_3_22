@@ -7,6 +7,10 @@ namespace Exercise1
     {
         static void Main( string[] args )
         {
+            FuelTank tank = new FuelTank(300);
+            tank.fill(100);
+            Console.WriteLine("Level: " + tank.GetLevel());
+
             Engine eng = new Engine();
             eng.start();
             Thread.Sleep( 2000 );
