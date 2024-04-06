@@ -10,14 +10,14 @@
         "projectUniqueName": "P:\\ТРПО\\Exercises-IS_3_22\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
         "projectPath": "P:\\ТРПО\\Exercises-IS_3_22\\Exercise1\\Exercise1.csproj",
-        "packagesPath": "C:\\Users\\p40850\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\P40850\\.nuget\\packages\\",
         "outputPath": "P:\\ТРПО\\Exercises-IS_3_22\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\p40850\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\P40850\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

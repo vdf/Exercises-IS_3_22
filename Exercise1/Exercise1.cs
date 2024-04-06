@@ -8,6 +8,7 @@ namespace Exercise1
         private const int StateStarted = 2;
         private int EngineState;
 
+
         private void start()
         {
             Console.Out.WriteLine( "Start" );
